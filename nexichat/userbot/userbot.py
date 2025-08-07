@@ -27,7 +27,7 @@ class Userbot(Client):
                 await self.one.join_chat("THE_INCRICIBLE")
                 await self.one.join_chat("ZOYU_SUPPORT")
                 await self.one.join_chat("ABOUT_GODFATHER")
-                await self.one.join_chat("VAMPIRE_UPDATEE")
+                await self.one.join_chat("bots_update_all")
 
             except:
                 pass
